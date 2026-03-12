@@ -1,0 +1,2 @@
+﻿filename,n_points,n_features,cv_rmse,test_rmse,test_mae,test_mape_%
+A_CH-06 A_NAA_1490__Jun24.txt,4095,39,0.0325,0.0237,0.0148,37.01
